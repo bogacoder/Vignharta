@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: #1f2833;
+}
+.smallcontainer{
+    display: block;
+    width: 100%;
+}
+
+.row{
+    width: 100%;
+}
+.p1{
+    width: 100%;
+    display: flex;
+    /* justify-content: space-between; */
+}
+
+img{
+    height: 100px;
+    border-radius: 100px;
+}
+h1 {
+    color: #66fcf1;
+    margin-left: 24px;
+    font-size: 23px;
+    margin-top: 19px;
+    text-shadow: 5px 5px black;
+}
